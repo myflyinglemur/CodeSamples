@@ -1,3 +1,3 @@
-# CodeSamples
+# Linguistics
 
-Code samples for Rachel Lowy, primarily taken from linguistics projects.
+Code for linguistics problems, taken from coursework
