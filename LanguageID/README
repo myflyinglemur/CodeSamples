@@ -1,1 +1,3 @@
-This program classifies texts written in different languages.
+
+A program that reads in short textThis program predicts the language that short samples of text are written in by summing the log probs for each word in the sentence based on a count of the occurrence of the most words in a language.  Smoothing algorithm assigns a sighting of 1 occurrence in a word count dictionary to each unknown word encountered in a sample when evaluating languages whose most frequent word is over a 'low frequency' threshold.  Otherwise, the smoothing algorithm splits a total of one occurrence across all unknown word counts.
+
