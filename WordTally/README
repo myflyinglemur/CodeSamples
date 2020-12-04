@@ -1,0 +1,1 @@
+This program takes a directory of NYT articles, removes the formatting tags from them, strips away text that is not part of a word, and outputs the number of occurrences of each word across all articles (ranked by descending usage order).
