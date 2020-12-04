@@ -1,0 +1,1 @@
+Reviews text files tagged using Pennbank and reports amount of different phrase types (sentence, noun phrase, verb phrase, ditransitive verb phrase, and intransitive verb phrase). Ditransitive and intransitive verb phrases are also counted in the overall 'verb phrase' count. Noun phrases inside of ditransitive verb phrases are counted again in the overall 'noun phrase' count.
